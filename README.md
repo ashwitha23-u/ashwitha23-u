@@ -79,7 +79,6 @@
 ## 🏆 Achievements
 
 - 🥇 **Top 100** — Innomatics Research Labs Hackathon Scholarship
-- 🚀 **Redrob AI "India Runs" Hackathon 2026** — Data & AI Track + Ideathon Track
 - 🎓 **FutureSkills Prime** — MeitY & NASSCOM Workshop
 
 ---
