@@ -6,8 +6,7 @@
 
 ## 🎓 About Me
 - 🏫 B.Tech CSE Student at **CMR College of Engineering & Technology, Hyderabad**
-- 🤖 Passionate about **AI/ML, Generative AI, and Full Stack Development**
-- 🌱 Currently learning **Deep Learning, Cloud Deployment, React.js**
+- 🤖 Passionate about **AI/ML, Generative AI**
 - 💡 Love building real-world AI solutions that solve actual problems
 - 📫 Reach me at: **ashwithagadde2005@gmail.com**
 
